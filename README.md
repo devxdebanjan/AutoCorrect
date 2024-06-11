@@ -1,2 +1,2 @@
 # AutoCorrect
-Implemented various spellcheck techniques like cosine similarity, jaccard similarity and levenshtein distance. 
+Here i have implemented various spellcheck techniques like cosine similarity, jaccard similarity and levenshtein distance. 
